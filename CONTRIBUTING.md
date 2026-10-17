@@ -7,7 +7,7 @@ Thanks for helping. Niko apps are for people who can't read, older people and di
 - **Testing.** Use an app with someone who would actually rely on it. Watch where they get stuck and open an issue describing what happened. You don't need to write code.
 - **Accessibility reports.** If something doesn't work with TalkBack, large fonts, Switch Access or another tool, use the accessibility issue form.
 - **Translations.** Each app speaks and shows text in the phone's language. Translation setup is coming; until then, open an issue for the language you can help with.
-- **Code.** Kotlin and Jetpack Compose. Look for issues labelled `good first issue` or `help wanted`.
+- **Code.** The apps are in private development for now. Code contributions open once the source is published.
 - **App ideas.** Use the app idea form. Ideas that come from someone who has the problem are the most useful.
 
 ## Before you write code

@@ -12,7 +12,7 @@ Niko builds small apps for the people mainstream apps leave out: people who can'
 ## Principles
 
 - **One job per app.** Small enough to keep working for years.
-- **Free and open source.** GPLv3. No ads, no tracking, no paid features.
+- **Free forever.** No ads, no tracking, no paid features. The code will be open source under GPLv3 once the apps are released.
 - **Offline.** No internet permission unless an app truly needs it.
 - **Accessible by default.** Works with TalkBack, large text and buttons, high contrast.
 - **Usable without reading.** Speaks in the phone's own voice and language, with optional recordings from family.
@@ -24,7 +24,7 @@ Niko builds small apps for the people mainstream apps leave out: people who can'
 
 | | App | What it does | Status |
 | --- | --- | --- | --- |
-| <img src="icon-clock.png" width="40" alt=""> | [Niko Clock](https://github.com/NikoApps/Clock) | Speaks the time on shake, a big button or every hour | In progress |
+| <img src="icon-clock.png" width="40" alt=""> | Niko Clock | Speaks the time on shake, a big button or every hour | In progress |
 | <img src="icon-dialer.png" width="40" alt=""> | Niko Dialer | Tap a family member's photo to call them | Planned |
 | <img src="icon-reminders.png" width="40" alt=""> | Niko Reminders | Reminders in a family member's recorded voice, with a photo | Planned |
 | <img src="icon-light.png" width="40" alt=""> | Niko Light | A rising tone that tells blind users if a light is on | Planned |
@@ -32,13 +32,13 @@ Niko builds small apps for the people mainstream apps leave out: people who can'
 | <img src="icon-dayclock.png" width="40" alt=""> | Niko Day Clock | "Tuesday morning" in big words and pictures | Planned |
 | <img src="icon-flash.png" width="40" alt=""> | Niko Flash | Flashes the light on calls and messages for older phones | Planned |
 
-Apps will be published on F-Droid first.
+Apps will be released on GitHub first.
 
 ## How to help
 
 - **Test.** Try an app with someone who would actually use it and tell us what was hard.
 - **Translate.** Every app should speak and read in as many languages as possible.
-- **Code.** Kotlin and Jetpack Compose. Start with issues labelled `good first issue`.
+- **Code.** The apps are in private development for now. Code contributions open when the source is published.
 - **Spread the word.** Tell disability organisations, carers and families who might benefit.
 
 See [CONTRIBUTING.md](https://github.com/NikoApps/.github/blob/main/CONTRIBUTING.md) to get started.
