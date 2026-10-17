@@ -27,7 +27,7 @@ Niko builds small apps for the people mainstream apps leave out: people who can'
 | <img src="icon-clock.png" width="40" alt=""> | [Niko Clock](https://github.com/NikoApps/Clock) | Speaks the time on shake, a big button or every hour | In progress |
 | <img src="icon-dialer.png" width="40" alt=""> | Niko Dialer | Tap a family member's photo to call them | Planned |
 | <img src="icon-reminders.png" width="40" alt=""> | Niko Reminders | Reminders in a family member's recorded voice, with a photo | Planned |
-| <img src="icon-light.png" width="40" alt=""> | Niko Light | A rising tone that tells blind users if a light is on | Planned |
+| <img src="icon-torch.png" width="40" alt=""> | Niko Torch | A rising tone that tells blind users if a light is on | Planned |
 | <img src="icon-status.png" width="40" alt=""> | Niko Status | One button says battery, signal and airplane mode | Planned |
 | <img src="icon-dayclock.png" width="40" alt=""> | Niko Day Clock | "Tuesday morning" in big words and pictures | Planned |
 | <img src="icon-flash.png" width="40" alt=""> | Niko Flash | Flashes the light on calls and messages for older phones | Planned |
