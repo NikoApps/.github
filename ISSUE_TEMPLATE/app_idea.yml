@@ -1,0 +1,41 @@
+name: App idea
+description: Suggest a new small app.
+labels: ["app idea"]
+body:
+  - type: markdown
+    attributes:
+      value: Niko apps each do one simple job for people who can't read, older people or disabled people. Ideas from people who have the problem themselves are the most useful.
+  - type: textarea
+    id: who
+    attributes:
+      label: Who is it for?
+      description: Describe the person and their situation.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's hard for them today?
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would the app do?
+      description: One job. Describe it in a sentence or two.
+    validations:
+      required: true
+  - type: textarea
+    id: existing
+    attributes:
+      label: Existing apps and what's wrong with them
+      description: Ads, cost, bad design, no accessibility, abandoned, missing languages, or nothing exists.
+  - type: dropdown
+    id: relationship
+    attributes:
+      label: Your connection to the problem
+      options:
+        - I have this problem myself
+        - I help someone who has it
+        - I work with people who have it
+        - Other

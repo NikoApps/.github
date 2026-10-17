@@ -1,0 +1,29 @@
+name: Feature request
+description: Suggest a change to an existing app.
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+      description: Describe the situation and who runs into it. Real examples help most.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like the app to do?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: What do people do today instead?
+  - type: checkboxes
+    id: principles
+    attributes:
+      label: Fits the principles
+      description: Niko apps stay small and simple.
+      options:
+        - label: This keeps the app doing one job
+        - label: This works offline and needs no account
